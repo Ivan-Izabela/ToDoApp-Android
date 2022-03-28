@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <string-array name="status">
+        <item>Not started</item>
+        <item>Started</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
